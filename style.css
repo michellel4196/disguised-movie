@@ -3,3 +3,11 @@ body {
     line-height: 1.5;
     font-family: "Crimson Text", "Georgia";
 }
+
+h1{
+    font-family: 'Amatic SC', cursive;
+}
+
+p{
+    font-family: 'Niconne', cursive;
+}
