@@ -1,13 +1,26 @@
 body {
     font-size: 25px;
     line-height: 1.5;
-    font-family: "Crimson Text", "Georgia";
+    text-align: center;
 }
 
 h1{
+    color: white;
+    font-size: 72px;
     font-family: 'Amatic SC', cursive;
 }
 
 p{
+    color: white;
     font-family: 'Niconne', cursive;
 }
+
+#grad1 {
+    background-color: red; 
+    background-image: linear-gradient(black, white, black);
+}
+
+/*.container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }*/
