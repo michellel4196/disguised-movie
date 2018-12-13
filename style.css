@@ -20,6 +20,11 @@ p{
     background-image: linear-gradient(black, white, black);
 }
 
+h4{
+    color: lightblue;
+    font-family: 'Amatic SC', cursive;
+}
+
 /*.container-fluid {
       padding-top: 70px;
       padding-bottom: 70px;
