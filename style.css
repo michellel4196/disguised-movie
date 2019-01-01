@@ -43,3 +43,12 @@ h4{
     bottom: 0;
     right: 0;
 }
+.boy {
+    float: right;
+}
+.girl-boy {
+    float:left ;
+}
+.girl {
+    float: none;
+}
